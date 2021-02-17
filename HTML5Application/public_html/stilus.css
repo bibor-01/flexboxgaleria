@@ -1,0 +1,9 @@
+@charshet "utf-8"
+body{
+    background-image: url(kepek/hatter.jpg);
+    color: white;
+   
+}
+main,header,footer,aside,article{
+    border: 1px solid white;
+}    
